@@ -1,4 +1,4 @@
-# Mini-OpenClaw - 方便了解OpenClaw的底层运行原理的
+# Mini-OpenClaw - 方便了解OpenClaw的底层运行原理
 
 一个基于 LangChain 和 Flask 的智能 AI 代理系统，支持动态技能加载、多轮对话、命令执行和 Web UI 交互。
 
